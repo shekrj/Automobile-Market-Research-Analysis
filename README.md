@@ -1,4 +1,3 @@
-# Automobile-Market-Research-Analysis
 # Automobile Market Research Analysis (Interactive Dashboard creation using Power Bi)
 ## Project Objective
 The objective of this project is to analyze car manufacturers based on the features offered in their various models. By identifying models with the most preferred features, the project aims to rank car makers according to consumer feature preferences. This analysis will help stakeholders understand market trends, customer priorities, and which brands are leading in delivering feature-rich vehicles.
@@ -45,7 +44,7 @@ Which car body type is most preferred by customers?
 
 ## Dashboard
 
-![Screenshot (495)](https://drive.google.com/file/d/1nXUw_H1YvJn5K5HwKLk3YjGxOk-A4Vb6/view?usp=drive_link)
+- <a href="https://drive.google.com/file/d/1nXUw_H1YvJn5K5HwKLk3YjGxOk-A4Vb6/view?usp=drive_link">ss</a>
 
 
 
